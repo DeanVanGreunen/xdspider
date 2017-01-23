@@ -44,6 +44,8 @@ Commands                        Commands Description
 -help                         # outputs help menu
 ```
 
+see example-configs.json in release zip
+
 ## Built With
 
 * [Python](https://www.python.org/)
@@ -56,7 +58,7 @@ Please email [Dean Van Greunen](mailto:deanvg9000@gmail.com) for details on the 
 
 ## Versioning & Downloads
 
-* [XDSpider V2.0.0.0-stable](xdspider-v2.0.0.0-stable.zip). sha1-hash:  4b430a0b2e63a4d9d6b4152e039b82b37f1a6053
+* [XDSpider V2.0.0.0-stable](xdspider-v2.0.0.0-stable.zip). sha1-hash:  62ca974051b3eaf131e2e2a782ad24f16075d89e
   * Supported: Python 2.6.7
 * Coming Soon: Python 3
 * Coming Soon: Python 4
