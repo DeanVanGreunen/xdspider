@@ -62,7 +62,7 @@ Please email [Dean Van Greunen](mailto:deanvg9000@gmail.com) for details on the 
 * Coming Soon: Python 4
 
 ## Author
-* **Dean Van Greunen** - *Initial work* - [xX-MLG-Xx](https://github.com/xX-MLG-Xx)
+* **Dean Van Greunen** - *Initial work* - [DeanVanGreunen](https://github.com/DeanVanGreunen)
 
 ## License
 
