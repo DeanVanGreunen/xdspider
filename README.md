@@ -21,15 +21,14 @@ What things you need to install the software and how to install them
 
 Run on any platform (Windows, Linux, Other)
 * Universal - All Python Supported Operating Systems
-* * Python xdspider.py [commands]
+ * Python xdspider.py [commands]
 * Windows Only
-* * Python xdspider.py [commands]
+ * Python xdspider.py [commands]
 * Linux
-* * ./xdspider.py [commands]
-* * * mark xdspider.py as executable by executeing
-* * * * chmod 755 xdspider.py
-* * Python xdspider.py [commands]
-
+ * ./xdspider.py [commands]
+   * mark xdspider.py as executable by executeing
+     * chmod 755 xdspider.py
+        
 ### Usage
 ```
 usage: xdspider.py [commands]
