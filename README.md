@@ -15,15 +15,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-* [Python Version 2.6.7](https://www.python.org/download/releases/2.6.7/)
-* [xdspider.py](xdspider.py)
-
-See [xdspider.requirements](xdspider.requirements) which is a \n line ended module listings
+* [Python](https://www.python.org/)
 
 ## Deployment
 
 Run on any platform (Windows, Linux, Other)
-* Universal - All Python 2.6.7 Supported Operating Systems
+* Universal - All Python Supported Operating Systems
 * * Python xdspider.py [commands]
 * Windows Only
 * * Python xdspider.py [commands]
@@ -33,10 +30,24 @@ Run on any platform (Windows, Linux, Other)
 * * * * chmod 755 xdspider.py
 * * Python xdspider.py [commands]
 
+### Usage
+```
+usage: xdspider.py [commands]
+Commands                        Commands Description
+--out filename                # master output filename, will become filename_sha1-hash-of-url
+--format format               # master output format {JSON, CSV, XML}
+--import filename             # import configs from file (json only)
+--export filename             # export the default config to file (json only)
+--no-save                     # disables file output, prints output data to console
+--debug                       # enables application debugging mode
+-h                            # outputs help menu
+-?                            # outputs help menu
+-help                         # outputs help menu
+```
+
 ## Built With
 
-* [Python 2.6.7](https://www.python.org/download/releases/2.6.7/)
-* [xdspider.requirements](xdspider.requirements) for Python 2.6.7
+* [Python](https://www.python.org/)
 * [Love](https://en.wikipedia.org/wiki/Love)
 * Compasion and endurence of the world wide web
 
@@ -44,13 +55,12 @@ Run on any platform (Windows, Linux, Other)
 
 Please email [Dean Van Greunen](mailto:deanvg9000@gmail.com) for details on the process for submitting pull requests.
 
-## Versioning
+## Versioning & Downloads
 
-For the versions available, see the [tags on this repository](https://github.com/xX-MLG-Xx/xdspider/tags). 
-
-* XDSpider V2.0.0.0-stable. 
+* [XDSpider V2.0.0.0-stable](xdspider-v2.0.0.0-stable.zip). sha1-hash:  4b430a0b2e63a4d9d6b4152e039b82b37f1a6053
 * * Supported: Python 2.6.7
-* * Coming Soon: Python 3, Python 4
+* Coming Soon: Python 3
+* Coming Soon: Python 4
 
 ## Author
 * **Dean Van Greunen** - *Initial work* - [xX-MLG-Xx](https://github.com/xX-MLG-Xx)
