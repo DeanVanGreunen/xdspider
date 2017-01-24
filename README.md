@@ -58,7 +58,7 @@ Please email [Dean Van Greunen](mailto:deanvg9000@gmail.com) for details on the 
 
 ## Versioning & Downloads
 
-* [XDSpider V2.0.0.0-stable](xdspider-v2.0.0.0-stable.zip). sha1-hash:  62ca974051b3eaf131e2e2a782ad24f16075d89e
+* [XDSpider V2.0.0.0-stable](xdspider-v2.0.0.0-stable.zip). sha1-hash:  0b77f0d19da79f47f65870ba199af69f19a8da27
   * Supported: Python 2.6.7
 * Coming Soon: Python 3
 * Coming Soon: Python 4
