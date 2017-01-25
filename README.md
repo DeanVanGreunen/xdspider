@@ -69,7 +69,3 @@ Please email [Dean Van Greunen](mailto:deanvg9000@gmail.com) for details on the 
 ## License
 
 This project is licensed - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hozi Pty Ltd
