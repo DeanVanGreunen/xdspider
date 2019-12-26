@@ -1,0 +1,37 @@
+{
+    "exclusion_list": [], 
+    "rating": [
+        {
+            "regex": "^.*\\.example\\.com.*$", 
+            "value": 1.0
+        }, 
+        {
+            "regex": "^.*$", 
+            "value": 0.8
+        }
+    ], 
+    "follow_redirects": 1, 
+    "remove": [], 
+    "format": "xml", 
+    "websites": [
+        {
+            "url": "http://www.example.com/", 
+            "output": "sitemap.xml", 
+            "depth": 2, 
+            "allow_linked_domains": 1, 
+            "format": "xml"
+        }
+    ], 
+    "save2file": 1, 
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.5", 
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
+        "Upgrade-Insecure-Requests": 1, 
+        "Connection": "keep-alive", 
+        "Referer": "", 
+        "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0"
+    }, 
+    "depth": 1, 
+    "multi_threaded": 1, 
+    "force2https": 0
+}
